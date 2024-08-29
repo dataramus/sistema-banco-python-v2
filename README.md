@@ -36,7 +36,7 @@ A aplicação opera em um loop, apresentando um menu ao usuário e realizando as
 
    ```bash
    git clone https://github.com/seuusuario/sistema-banco-python-v2.git
-   cd sistema-bancario-simples
+   cd sistema-banco-python-v2
    ```
 
 2. **Execute a aplicação:**
