@@ -105,7 +105,8 @@ def list_contas(contas):
         print(textwrap.dedent(linha))
 
 # A função main é a função principal do programa, ela controla o loop do menu.
-# Ela chama as funções com base na entrada do menu.def main():
+# Ela chama as funções com base na entrada do menu.
+def main():
     LIM_SAQUES = 3
     AGENCIA = "0001"
 
@@ -155,3 +156,4 @@ def list_contas(contas):
         else:
             print("Operação inválida.")
 
+main()
